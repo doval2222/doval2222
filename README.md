@@ -12,7 +12,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [vsftpd_exploit](https://github.com/doval2222/vsftpd_exploit) | Explotación de vsftpd 2.3.4 en Metasploitable 2 | `Metasploit`, `FTP`, `Exploit` |
+| [vsftpd_exploit](https://github.com/doval2222/scripts-ciberseguridad/tree/b30710fe0882ac1bda4c7f3e05a88a254dfdf55a/port_scanner) | Explotación de vsftpd 2.3.4 en Metasploitable 2 | `Metasploit`, `FTP`, `Exploit` |
 | [samba_exploit](https://github.com/doval2222/samba_exploit) | Explotación manual de Samba 3.0.20 (CVE-2007-2447) | `smbclient`, `Python`, `shellcode` |
 | [port_scanner](https://github.com/doval2222/port_scanner) | Script de escaneo de puertos TCP | `Python`, `Sockets` |
 | [brute_login](https://github.com/doval2222/brute_login) | Ataque de fuerza bruta a formularios de login | `Python`, `Requests` |
